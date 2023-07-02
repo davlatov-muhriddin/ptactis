@@ -7,10 +7,13 @@
 }
 
 .box {
+  width: 90%;
   padding: 10px 15px;
   background-color: crimson;
   color: #fff;
   text-align: center;
+  margin: 10px auto;
+  border-radius: 5px;
 }
 
 h1 {
